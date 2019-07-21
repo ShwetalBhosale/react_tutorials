@@ -1,0 +1,39 @@
+.App {
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 65px !important;
+  display: block;
+  color: white;
+}
+
+.loggedIn{
+  float: right;
+}
+
+.header-title{
+  float: right;
+}
+
+.leftNav{
+  float: left;
+}
+
+.leftNavBar{
+  margin-left: 30px;
+  width: 600px;
+  float: left;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
